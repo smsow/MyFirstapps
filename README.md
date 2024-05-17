@@ -1,16 +1,16 @@
-# flutter_application_1
+# Pharmacy Mobile Application 
 
-A new Flutter project.
+## INTRODUCTION
+The aim of this mobile application is basically an application for a delivery service where one can order a medicine and have it delivered at their house. Within Senegal I have yet to come across such an application, but I certainly am quite interested in seeing such an app here. The intended audience of such an application would certainly be elderly, ill, and people who have a hard time buying their own medicine physically. The features I’d want this app to have is where one can scroll and find the medicine they want to buy, give them purchasing options and an option to share their location for deliveries. Lastly, have the chance to see if certain medicines are still in stock or are sold out. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+The aim of this project is to create a mobile web app for phones, and possibly develop a mobile application for Android phones as well. The main feature of this mobile application is essentially to allow users to scroll, search, and make purchases. Other functionalities include enabling users to provide their location for deliveries. Additional features that could enhance the app's utility involve allowing users to upload their medical prescriptions and facilitating connections with their medical insurance providers. Through such integration, users may benefit from potential reductions in the prices of their purchases, thereby improving accessibility and affordability of healthcare products and services.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app starts with the user seeing multiple random items that are sold in a pharmacy. The user would be able to see sellable items like medicine, toothpaste, lotion and soap. From there the user can search for items they want to buy or click on an item on the menu. From there they have the item and they have the option to click buy the item. The User can choose the amount of the item they can buy and then press the add to basket button to add to their basket. The user will get a pop-up where they have to either login or register. They’ll have two buttons to click: either click on the register button or login button. After clicking any of those buttons they’ll have to put some data in such as email or name. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After going through that process that will get a message that the item  has been purchased was successfully put in the basket/cart. By clicking on the basket at the top right, the user can purchase the items by adding information such as will it be a delivery. Are they paying with cash or Wave or Orange Money etc. 
+
+In selecting the design elements for the mobile application, a deliberate choice was made to prioritize simplicity and user-friendliness. The combination of a clean white background with accents of dark green was chosen to evoke a sense of clarity and calmness, ensuring that the interface remains visually uncluttered and easy to navigate. The use of white creates a sense of spaciousness and openness, while the dark green accents add a touch of sophistication and promote a sense of trust and reliability, particularly in the context of healthcare. Additionally, the incorporation of red for the delete function serves as a clear visual cue, facilitating intuitive interaction and enhancing usability. Overall, these design choices aim to create a harmonious and visually appealing interface that enhances the user experience, ultimately contributing to the success and effectiveness of the mobile application. I also used arrows as a way for users to move around the mobile application. 
+
